@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817622426760",
+    "project_id": "live-score-app-bca6c",
+    "storage_bucket": "live-score-app-bca6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817622426760:android:a94eb2cb1ccad4b9e3eb3d",
+        "android_client_info": {
+          "package_name": "com.example.abuessa.live_score_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxr_rQRGQGq02x3X05HVrlWp1JMBQB2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
